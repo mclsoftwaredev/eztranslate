@@ -1,0 +1,7 @@
+{
+  "name": "MirrorTalk Translator",
+  "description": "A face-to-face real-time translator with a split-screen interface designed for two people sitting across from each other. Uses Gemini Live API for low-latency speech-to-speech translation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
