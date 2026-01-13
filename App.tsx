@@ -238,7 +238,7 @@ const App: React.FC = () => {
             ))}
           </select>
           <div className="flex items-center gap-2">
-            <span className="text-[10px] font-bold uppercase tracking-widest text-slate-500">Opponent View</span>
+            <span className="text-[10px] font-bold uppercase tracking-widest text-slate-500">Friend's View</span>
           </div>
         </div>
         
